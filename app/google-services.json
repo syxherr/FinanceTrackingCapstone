@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744113575435",
+    "project_id": "financial-trackers-project",
+    "storage_bucket": "financial-trackers-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744113575435:android:bde467fec714bc7b5ad90e",
+        "android_client_info": {
+          "package_name": "com.example.myscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2R-dwMW7zG4cCyVhlyihAEdss2I1O-O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
