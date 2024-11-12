@@ -5,6 +5,14 @@
     <img src='/img/logo_bangkit.png'>
 </p>
 
+<p align="center">
+ <img src='/img/tampilan1.png'>
+</p>
+
+<p align="center">
+ <img src='/img/tampilan2.png'>
+</p>
+
 In the background of this project, we recognize that efficient financial management is key to financial success. However, many people still struggle to record and track their expenses accurately. The increasing use of smartphones and image-scanning technology gave us the inspiration to create an app that uses these developments to make financial record-keeping easier.
 
 We wanted to address this issue because by making it easier for people to track and record their expenses, we can help them better manage their finances, reduce financial risks, and achieve their financial goals. With this app, we hope to provide a practical solution enabling individuals and businesses to gain better financial control and achieve financial stability
