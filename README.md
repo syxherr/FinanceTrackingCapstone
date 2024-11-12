@@ -1,8 +1,10 @@
-# Finance Tracking Capstone
+![tampilan 1](https://github.com/user-attachments/assets/0f53de6f-e265-488b-91a4-07df723dbd07)# Finance Tracking Capstone
  "Finance Tracking Application with Added Feature Image Scanning of Proof Transaction," aims to revolutionize financial management for individuals and businesses by developing a cutting-edge financial tracking application.
 
 <p align="center">
     <img src='/img/logo_bangkit.png'>
+ <img src='/img/tampilan 1.png'>
+ <img src='/img/tampilan 2.png'>
 </p>
 
 In the background of this project, we recognize that efficient financial management is key to financial success. However, many people still struggle to record and track their expenses accurately. The increasing use of smartphones and image-scanning technology gave us the inspiration to create an app that uses these developments to make financial record-keeping easier.
