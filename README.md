@@ -3,7 +3,13 @@
 
 <p align="center">
     <img src='/img/logo_bangkit.png'>
+</p>
+
+<p align="center">
  <img src='/img/tampilan 1.png'>
+</p>
+
+<p align="center">
  <img src='/img/tampilan 2.png'>
 </p>
 
