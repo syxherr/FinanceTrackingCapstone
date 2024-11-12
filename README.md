@@ -3,15 +3,13 @@
 
 <p align="center">
     <img src='/img/logo_bangkit.png'>
+ <img src='/img/tampilan2.png'>
 </p>
 
 <p align="center">
  <img src='/img/tampilan1.png'>
 </p>
 
-<p align="center">
- <img src='/img/tampilan2.png'>
-</p>
 
 In the background of this project, we recognize that efficient financial management is key to financial success. However, many people still struggle to record and track their expenses accurately. The increasing use of smartphones and image-scanning technology gave us the inspiration to create an app that uses these developments to make financial record-keeping easier.
 
