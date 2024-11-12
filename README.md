@@ -1,4 +1,4 @@
-![tampilan 1](https://github.com/user-attachments/assets/0f53de6f-e265-488b-91a4-07df723dbd07)# Finance Tracking Capstone
+# Finance Tracking Capstone
  "Finance Tracking Application with Added Feature Image Scanning of Proof Transaction," aims to revolutionize financial management for individuals and businesses by developing a cutting-edge financial tracking application.
 
 <p align="center">
