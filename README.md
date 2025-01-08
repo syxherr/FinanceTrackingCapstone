@@ -1,4 +1,4 @@
-# Finance Tracking Capstone
+# Finance Tracking Capstone / FinFix
  "Finance Tracking Application with Added Feature Image Scanning of Proof Transaction," aims to revolutionize financial management for individuals and businesses by developing a cutting-edge financial tracking application.
 
 <p align="center">
@@ -7,9 +7,9 @@
  <img src='/img/tampilan2.png'>
 </p>
 
-In the background of this project, we recognize that efficient financial management is key to financial success. However, many people still struggle to record and track their expenses accurately. The increasing use of smartphones and image-scanning technology gave us the inspiration to create an app that uses these developments to make financial record-keeping easier.
+Many people still struggle to record and track their expenses accurately, as they often rely solely on memory. We aim to address this issue by providing a solution that makes it easier for people to track and record their expenses, helping them manage their finances more effectively, reduce financial risks, and achieve their financial goals.
 
-We wanted to address this issue because by making it easier for people to track and record their expenses, we can help them better manage their finances, reduce financial risks, and achieve their financial goals. With this app, we hope to provide a practical solution enabling individuals and businesses to gain better financial control and achieve financial stability
+This is what inspired us to create an application that leverages technological advancements to simplify the financial recording process. Through this application, we hope to offer a practical solution that enables individuals and businesses to gain better financial control and achieve financial stability.
 
 ## Project Documents:
 - Project Plan : https://docs.google.com/document/d/1It7szyUsUq8EFtZIumNfWotxfWmAeVHtJ3b06QWu87E/edit?usp=sharing
